@@ -1,2 +1,2 @@
-# Monad 2024 koodipähkinä
+# Monad 2025 koodipähkinä
 Botti pelaa Monadin luomaa korttipeliä
